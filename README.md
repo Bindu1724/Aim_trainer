@@ -5,4 +5,4 @@ An aim trainer project is perfect for enhancing hand-eye coordination and reflex
 Install pygame, random, math and time for this project.
 
 ## Run your code
-Run the code with python main.py
+Run the code with python game.py
